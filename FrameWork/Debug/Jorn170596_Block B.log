@@ -1,0 +1,1 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppClean.targets(86,5): error MSB3491: Could not write lines to file "Debug\FrameWork.Build.CppClean.log". Access to the path 'I:\Jorn170596\TestProjectPathFinding\FrameWork\Debug\FrameWork.Build.CppClean.log' is denied.

@@ -1,0 +1,2 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppClean.targets(76,5): warning : Access to the path 'i:\jorn170596\testprojectpathfinding\game\debug\pathfinding.obj.enc' is denied.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppClean.targets(86,5): error MSB3491: Could not write lines to file "Debug\Game.Build.CppClean.log". Access to the path 'I:\Jorn170596\TestProjectPathFinding\Game\Debug\Game.Build.CppClean.log' is denied.
